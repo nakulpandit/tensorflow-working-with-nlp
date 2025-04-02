@@ -1,7 +1,7 @@
 
 
 # TensorFlow: Working with NLP
-This is the repository for the LinkedIn Learning course TensorFlow: Working with NLP. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course TensorFlow: Working with NLP.
 
 
 TensorFlow 2.0 is quickly becoming one of the most popular deep learning frameworks and a must-have skill in your artificial intelligence toolkit. Using a hands-on approach, Jonathan Fernandes covers the key aspects of working with transformers in natural language processing, all in TensorFlow. He goes over the basics of working with text data, and explores transfer learning, fine-tuning BERT, and understanding the transformer model architecture. He also includes challenge/solution sets and assessment questions to help you optimize retention of the material.
